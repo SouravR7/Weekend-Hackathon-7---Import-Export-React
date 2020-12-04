@@ -5,3 +5,5 @@ function Heading() {
         <h1>Welcome to our Site.</h1>
     )
 }
+
+export default Heading;
